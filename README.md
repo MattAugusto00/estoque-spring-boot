@@ -3,3 +3,9 @@
 
 Aqui você encontra um guia para contruir um CRUD para controle de produtos em um estoque. Para isso, aqui estará disponível um livro com o passo a passo e o código completo caso precise.
 O tutorial se encontra no arquivo denominado "doc.pdf". O código está presente dentro da pasta "estoque-api".
+
+Tecnologias utilizadas no projeto:
+* Java 21
+* Spring Boot
+* PostgreSQL
+* Postman
