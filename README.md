@@ -9,3 +9,14 @@ Tecnologias utilizadas no projeto:
 * Spring Boot
 * PostgreSQL
 * Postman
+
+Dependencias utilizadas:
+* Spring Web
+* Spring Data JPA
+* PostgreSQL Driver
+* Lombok
+
+Dentro de "doc.pdf" encontra-se explicações sobre:
+* Como criar e visualizar a tabela de produtos no banco de dados PostgreSQL
+* Como criar o projeto no Spring Initializr e como implementar utilizando o Spring Boot
+* Como testar os endpoints com o Postman
