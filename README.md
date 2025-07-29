@@ -20,3 +20,4 @@ Dentro de "doc.pdf" encontra-se explicações sobre:
 * Como criar e visualizar a tabela de produtos no banco de dados PostgreSQL
 * Como criar o projeto no Spring Initializr e como implementar utilizando o Spring Boot
 * Como testar os endpoints com o Postman
+* Alguns erros comuns e como resolve-los
