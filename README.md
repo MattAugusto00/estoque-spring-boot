@@ -10,7 +10,7 @@ Tecnologias utilizadas no projeto:
 * PostgreSQL
 * Postman
 
-Dependencias utilizadas:
+Dependencias do Spring Boot utilizadas:
 * Spring Web
 * Spring Data JPA
 * PostgreSQL Driver
